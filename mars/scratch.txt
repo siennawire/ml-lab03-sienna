@@ -1,0 +1,21 @@
+## Table of Contents
+
+
+* [Exploring Datasets with *pandas*](#0)
+* [Packages](#packages)
+* [*Pandas* Basics](#pandasb)
+* [Getting Basic Stats](stats)
+* [Column Types](types)
+* [Cleaning and Prepping Data](cleaning)
+* [Dropping and Renaming Columns](dropping)
+* [Summing and Adding Columns](summing)
+* [*pandas* Intermediate: Indexing and Selection](#indexing)
+* [Filtering based on criteria](filtering)
+* [Visualizing Data using Matplotlib](#matplotlib)
+* [Implementation Layers and Backends](#backends)
+* [Plotting in Pandas](#plotpandas)
+* [Matplotlib: Standard Python Visualization Library](#10)
+* [Line Plots](#lineplots)
+
+
+<a id="1"></a>
